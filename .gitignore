@@ -1,17 +1,17 @@
 backend/env
 backend/.env
-frontend/node_modules
-frontend/.gitignore
+frontend1/node_modules
+frontend1/.gitignore
 # production
-frontend/build
+frontend1/build
 
 # misc
 .DS_Store
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
+frontend1/.env.local
+frontend1/.env.development.local
+frontend1/.env.test.local
+frontend1/.env.production.local
 
-frontend/npm-debug.log*
-frontend/yarn-debug.log*
-frontend/yarn-error.log*
+frontend1/npm-debug.log*
+frontend1/yarn-debug.log*
+frontend1/yarn-error.log*
