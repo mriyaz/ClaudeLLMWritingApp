@@ -1,2 +1,2 @@
 # Anthropic Claude : 
-A Simple Collaborative Writing App using Athropic LLM's Claude API.
+A Simple Collaborative Writing App using Anthropic LLM's Claude API.
